@@ -12,7 +12,7 @@
 
 **Project Happiness** is a data storytelling initiative that explores what makes countries happy. Using the **World Happiness Ranking dataset** from Kaggle (2015–2016), we clean, visualize, and interpret global well‑being patterns across **157 countries per year** (314 total records).
 
-> 🎯 **Three main goals:**  
+> **Three main goals:**  
 > 
 > | Goal | Description |
 > |------|-------------|
@@ -26,6 +26,7 @@
 
 ## 📁 Repository Contents
 
+```
 world-happiness-analysis-powerbi/
 │
 ├── 📄 Project data science lecture (Happiness).pdf   # Full PowerPoint report
@@ -40,8 +41,7 @@ world-happiness-analysis-powerbi/
 ├── 📊 dashboard.pbix                                 # Power BI file (interactive)
 ├── 📄 README.md                                      # You are here
 └── 🐍 cleaning_script.py                            # Data cleaning code (optional)
-
----
+```
 
 
 
