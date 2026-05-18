@@ -1,4 +1,4 @@
-# 😊 Project Happiness – Global Well‑being Analysis (2015–2016)
+# 😊 World-Happiness-Analysis-Project (2015–2016)
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](https://github.com/)
