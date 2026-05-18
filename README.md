@@ -28,11 +28,7 @@
 
 [![Download PDF](https://img.shields.io/badge/📄-DOWNLOAD_FULL_REPORT-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/habiba-ahmed9/World-happiness-analysis/blob/main/world-happiness-analysis%20data-science%20project.pdf)
 
----
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](https://github.com/)
-[![Data](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 
 
 ---
