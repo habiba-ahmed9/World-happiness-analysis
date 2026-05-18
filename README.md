@@ -38,9 +38,8 @@ world-happiness-analysis-powerbi/
 │   ├── Happiness-Score-Distribution.jpeg            # Happiness score stats (min/avg/max)
 │   └── Country-&-Region-Health-Family-Analysis.png  # Region health-family analysis
 │
-├── 📊 dashboard.pbix                                 # Power BI file (interactive)
 ├── 📄 README.md                                      # You are here
-└── 🐍 cleaning_script.py                            # Data cleaning code (optional)
+
 ```
 
 
