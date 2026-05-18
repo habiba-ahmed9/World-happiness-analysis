@@ -23,6 +23,21 @@
 ---
 
 
+## 📖 How to View This Project
+
+
+[![Download PDF](https://img.shields.io/badge/📄-DOWNLOAD_FULL_REPORT-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/habiba-ahmed9/World-happiness-analysis/blob/main/world-happiness-analysis%20data-science%20project.pdf)
+
+---
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](https://github.com/)
+[![Data](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+
+
+---
+
+
 
 ## 📁 Repository Contents
 
@@ -171,18 +186,6 @@ We identified and fixed three main data quality issues:
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Data cleaning (pandas, numpy) |
 | ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white) | Final report & presentation |
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | Project hosting |
-
----
-
-
-
-## 📖 How to View This Project
-
-### Option 1: View the Full Report (Recommended)
-Download **`Project data science lecture (Happiness).pdf`** – contains all 12 slides with complete analysis.
-
-### Option 2: Browse Images
-Check the images above for all chart screenshots.
 
 ---
 
