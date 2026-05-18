@@ -6,6 +6,8 @@
 
 ---
 
+
+
 ## 📌 Project Overview
 
 **Project Happiness** is a data storytelling initiative that explores what makes countries happy. Using the **World Happiness Ranking dataset** from Kaggle (2015–2016), we clean, visualize, and interpret global well‑being patterns across **157 countries per year** (314 total records).
@@ -20,9 +22,28 @@
 
 ---
 
+
+
 ## 📁 Repository Contents
 
+world-happiness-analysis-powerbi/
+│
+├── 📄 Project data science lecture (Happiness).pdf   # Full PowerPoint report
+│
+├── 🖼️ Images/
+│   ├── Average-of-happiness-score.jpeg              # Average happiness score overview
+│   ├── Top-10 Countries-by-Happiness-Score.jpeg     # Top 10 happiest countries
+│   ├── Top-10-Countries-by-Economic-Performance.jpeg # Top 10 by GDP per capita
+│   ├── Happiness-Score-Distribution.jpeg            # Happiness score stats (min/avg/max)
+│   └── Country-&-Region-Health-Family-Analysis.png  # Region health-family analysis
+│
+├── 📊 dashboard.pbix                                 # Power BI file (interactive)
+├── 📄 README.md                                      # You are here
+└── 🐍 cleaning_script.py                            # Data cleaning code (optional)
+
 ---
+
+
 
 ## 📊 Dataset Structure
 
@@ -42,6 +63,8 @@
 - **Mixed data types:** categorical + numerical scores
 
 ---
+
+
 
 ## 🧹 Data Cleaning Process (Detailed)
 
@@ -66,6 +89,8 @@ We identified and fixed three main data quality issues:
 
 ---
 
+
+
 ## 📈 Power BI Dashboard – Complete Visualizations
 
 ### 🖼️ Average Happiness Score Overview
@@ -76,6 +101,8 @@ We identified and fixed three main data quality issues:
 
 ---
 
+
+
 ### 1️⃣ Top 10 Happiest Countries (Bar Chart)
 
 ![Top 10 Happiness](Top-10%20Countries-by-Happiness-Score.jpeg)
@@ -84,6 +111,8 @@ We identified and fixed three main data quality issues:
 
 ---
 
+
+
 ### 2️⃣ Top 10 Countries by Economic Performance (Bar Chart)
 
 ![Top 10 Economy](Top-10-Countries-by-Economic-Performance.jpeg)
@@ -91,6 +120,8 @@ We identified and fixed three main data quality issues:
 > 💰 **Interesting Finding:** The top 10 countries by economic performance are **identical to the top 10 by happiness score** – strongly suggesting a correlation between economic prosperity and overall happiness.
 
 ---
+
+
 
 ### 3️⃣ Happiness Score Distribution (Statistical Summary)
 
@@ -106,6 +137,8 @@ We identified and fixed three main data quality issues:
 
 ---
 
+
+
 ### 4️⃣ Country & Region Health-Family Analysis (Detail Table)
 
 ![Health-Family Table](Country-&-Region-Health-Family-Analysis.png)
@@ -113,6 +146,8 @@ We identified and fixed three main data quality issues:
 > 🌍 **Example Insight:** Sudan (Sub-Saharan Africa) shows relatively low health scores (**0.33**) but moderate family support scores (**0.92**), indicating a potential disconnect between healthcare and social structures in that region.
 
 ---
+
+
 
 ## 🧠 Key Conclusions & Findings
 
@@ -127,6 +162,8 @@ We identified and fixed three main data quality issues:
 
 ---
 
+
+
 ## 🛠️ Tools & Technologies Used
 
 | Tool | Purpose |
@@ -138,30 +175,19 @@ We identified and fixed three main data quality issues:
 
 ---
 
+
+
 ## 📖 How to View This Project
 
 ### Option 1: View the Full Report (Recommended)
 Download **`Project data science lecture (Happiness).pdf`** – contains all 12 slides with complete analysis.
 
-### Option 2: Explore the Interactive Dashboard
-Open **`dashboard.pbix`** in Power BI Desktop (free download from Microsoft).
-
-### Option 3: Browse Images
+### Option 2: Browse Images
 Check the images above for all chart screenshots.
 
 ---
 
-## 👥 Team Members
 
-| Name | ID |
-|------|-----|
-| Roaa Haitham Hamada | 20251606023 |
-| Jana Hamdy Mohammed | 20251506399 |
-| Basmala Hussein Maher | 20251553089 |
-| Jana Moustafa Mahmoud | 20251507228 |
-| Habiba Ahmed Gomaa | 20251584726 |
-
----
 
 ## 🙏 Acknowledgments
 
@@ -170,11 +196,15 @@ Check the images above for all chart screenshots.
 
 ---
 
+
+
 ## 📄 License
 
 This project is for educational purposes as part of a Data Science course.
 
 ---
+
+
 
 ## ⭐ Show Your Support
 
@@ -182,11 +212,15 @@ If you found this project helpful or interesting, please **star** ⭐ this repos
 
 ---
 
+
+
 > 📌 *"Transform data into actionable insights about global well‑being."*
 
 ---
 
+
+
 ### 🔗 Connect With Us
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:example@university.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habiba-ahmed-5043a6374)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.ahmed3885@gmail.com)
