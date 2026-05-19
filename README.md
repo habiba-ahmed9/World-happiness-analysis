@@ -38,10 +38,9 @@ Click the button above to **download** the PDF file directly to your computer.
 
 Click the button above to **view** the PDF directly in your browser.
 
----
 
-### Option 3: Browse Images
-Check the screenshots above for all chart visualizations.
+
+
 
 
 
