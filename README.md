@@ -22,12 +22,26 @@
 
 ---
 
-
 ## 📖 How to View This Project
 
+### Option 1: Download the PDF (Save to your computer)
 
-[![Download PDF](https://img.shields.io/badge/📄-DOWNLOAD_FULL_REPORT-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/habiba-ahmed9/World-happiness-analysis/blob/main/world-happiness-analysis%20data-science%20project.pdf)
+[![Download PDF](https://img.shields.io/badge/⬇️-DOWNLOAD_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/habiba-ahmed9/World-happiness-analysis/raw/main/world-happiness-analysis%20data-science%20project.pdf)
 
+Click the button above to **download** the PDF file directly to your computer.
+
+---
+
+### Option 2: View Online (Open in browser)
+
+[![View PDF](https://img.shields.io/badge/👁️-VIEW_ONLINE-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/habiba-ahmed9/World-happiness-analysis/blob/main/world-happiness-analysis%20data-science%20project.pdf)
+
+Click the button above to **view** the PDF directly in your browser.
+
+---
+
+### Option 3: Browse Images
+Check the screenshots above for all chart visualizations.
 
 
 
